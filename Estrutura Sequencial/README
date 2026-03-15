@@ -1,0 +1,43 @@
+# 🧮 Exercícios – Estrutura Sequencial
+
+Lista de exercícios desenvolvidos durante as atividades acadêmicas, com foco em lógica de programação e implementação em Python.
+
+Nesta etapa são trabalhados problemas utilizando apenas **estrutura sequencial**, sem uso de decisões ou repetições, com objetivo de reforçar cálculos, entrada de dados e manipulação de variáveis.
+
+---
+
+## 📌 Exercícios
+
+| Nº | Descrição |
+|----|----------|
+| 1 | Calcular área de um quadrado |
+| 2 | Reajuste de salário |
+| 3 | Área de triângulo |
+| 4 | Conversão Celsius → Fahrenheit |
+| 5 | Equação do 2º grau |
+| 6 | Troca de valores |
+| 7 | Volume de paralelepípedo |
+| 8 | Rendimento de poupança |
+| 9 | Soma dos quadrados |
+| 10 | Diferença entre números |
+| 11 | Comprimento da circunferência |
+| 12 | Idade atual e futura |
+| 13 | Duração de alimento |
+| 14 | Terceiro ângulo |
+| 15 | Hipotenusa |
+| 16 | Cálculo de salário |
+| 17 | Consumo de combustível |
+
+---
+
+## 🛠 Tecnologias utilizadas
+
+- Python
+- Terminal
+
+---
+
+## 🎓 Contexto acadêmico
+
+Exercícios propostos na disciplina de **Sistemas Operacionais**  
+FATEC Zona Leste
