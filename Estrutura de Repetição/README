@@ -1,0 +1,44 @@
+# 🔁 Exercícios – Estrutura de Repetição
+
+Exercícios utilizando **loops (for / while)** para resolução de problemas.
+
+Nesta etapa são trabalhados cálculos repetitivos, séries matemáticas, validações e algoritmos iterativos.
+
+---
+
+## 📌 Exercícios
+
+| Nº | Descrição |
+|----|----------|
+| 30 | Idade completa |
+| 31 | Quadrados de 10 a 150 |
+| 32 | Fatorial |
+| 33 | Série harmônica |
+| 34 | Tabuada |
+| 35 | Soma de ímpares |
+| 36 | Série com fatorial |
+| 37 | Fibonacci |
+| 38 | Maior e menor de 100 valores |
+| 39 | Grãos no tabuleiro |
+| 40 | Números primos |
+| 41 | Soma de dados = 7 |
+| 42 | Série numérica |
+| 43 | Crescimento de altura |
+| 44 | Potência |
+| 45 | Série alternada |
+
+---
+
+## 🛠 Tecnologias utilizadas
+
+- Python
+- Docker
+- Execução em ambiente isolado
+- Terminal Linux em container
+
+---
+
+## 🎓 Contexto acadêmico
+
+Exercícios realizados durante a graduação  
+FATEC Zona Leste – ADS
