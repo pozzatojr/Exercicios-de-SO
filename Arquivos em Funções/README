@@ -1,0 +1,34 @@
+📂 Exercícios – Arquivos e Funções (Modularização em Python)
+
+Exercícios utilizando funções e procedimentos com manipulação de arquivos,
+com uso de variáveis globais e locais, além de operações em sistemas Linux.
+
+O objetivo desta etapa é praticar modularização em Python, leitura e escrita em arquivos,
+controle de diretórios e aplicação de funções com retorno e procedimentos sem retorno.
+
+📌 Exercícios
+Nº	Descrição
+34	Tabuada com gravação em arquivo
+21	Cadastro de aluno com média
+⚙️ Regras utilizadas
+Uso de funções com retorno (return)
+Procedimentos sem retorno
+Passagem de parâmetros
+Uso de variáveis globais e locais
+Estrutura main()
+Estruturas de repetição (while)
+Manipulação de arquivos (open, write)
+Verificação de diretórios (os.path)
+Criação de diretórios (os.makedirs)
+Controle de permissões (os.chmod)
+Conversão de tipos (casting)
+🛠 Tecnologias utilizadas
+Python 3
+Linux / Xubuntu
+Terminal
+Sistema de arquivos Linux (/tmp)
+Docker
+🎓 Contexto acadêmico
+
+Disciplina de Sistemas Operacionais
+FATEC Zona Leste
