@@ -10,6 +10,7 @@ controle de diretórios e aplicação de funções com retorno e procedimentos s
 Nº	Descrição
 34	Tabuada com gravação em arquivo
 21	Cadastro de aluno com média
+
 ⚙️ Regras utilizadas
 Uso de funções com retorno (return)
 Procedimentos sem retorno
@@ -22,13 +23,14 @@ Verificação de diretórios (os.path)
 Criação de diretórios (os.makedirs)
 Controle de permissões (os.chmod)
 Conversão de tipos (casting)
+
 🛠 Tecnologias utilizadas
 Python 3
 Linux / Xubuntu
 Terminal
 Sistema de arquivos Linux (/tmp)
 Docker
-🎓 Contexto acadêmico
 
+🎓 Contexto acadêmico
 Disciplina de Sistemas Operacionais
 FATEC Zona Leste
