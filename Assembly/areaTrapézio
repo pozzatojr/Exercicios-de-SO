@@ -1,0 +1,44 @@
+.data
+	msg1:.asciiz"\n Digite a base maior do trapézio: "
+	msg2:.asciiz"\n Digite a base menor do trapézio: "
+	msg3:.asciiz"\n Digite a altura do trapézio:: "
+	
+	
+.text
+main:
+	
+	li $v0, 4
+	la $a0, msg1
+	syscall
+	
+	li $v0, 5 #base maior = t0
+	syscall
+	add $t0, $v0, 0 
+	
+	li $v0, 4
+	la $a0, msg2
+	syscall
+	
+	li $v0, 5
+	syscall
+	add $t1, $v0, 0 #base menor = t1 
+	
+	li $v0, 4
+	la $a0, msg3
+	syscall
+	
+	li $v0, 5
+	syscall
+	add $t2, $v0, 0 #altura = t2
+	
+	add $t3, $t0, $t1 #soma das bases
+	mul $t5, $t3, $t2
+	
+	li $t9, 2
+	
+	li $v0, 1
+	div $a0, $t5, $t9
+	syscall
+	
+	
+	 
